@@ -1,0 +1,6 @@
+br\com\grupo05\model\Candidato$Position.class
+br\com\grupo05\model\Eleitor.class
+com\example\Main.class
+br\com\grupo05\model\Voto.class
+br\com\grupo05\util\Votacao.class
+br\com\grupo05\model\Candidato.class
