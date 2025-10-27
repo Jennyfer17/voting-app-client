@@ -49,8 +49,8 @@ public class Main extends Application {
     // Defina aqui os horários de início e término do registo e votação
     private static final LocalTime REGISTRO_INICIO = LocalTime.of(8, 0);   // 08:00
     private static final LocalTime REGISTRO_FIM = LocalTime.of(12, 0);     // 12:00
-    private static final LocalTime VOTACAO_INICIO = LocalTime.of(13, 0);   // 13:00
-    private static final LocalTime VOTACAO_FIM = LocalTime.of(18, 0);      // 18:00
+    private static final LocalTime VOTACAO_INICIO = LocalTime.of(8, 0);   // 08:00
+    private static final LocalTime VOTACAO_FIM = LocalTime.of(8, 45);      // 08:00
     // ==================================================================
 
     private Votacao votacao;
